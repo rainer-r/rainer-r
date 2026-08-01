@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/rainer-r/rainer-r/main/banner.png)
+
 # Hi there, I'm Rainer Alano 👋
 
 **Associate Data Engineer** · SQL · Python · ETL Pipelines
