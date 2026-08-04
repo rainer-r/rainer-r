@@ -4,7 +4,7 @@
 
 **Associate Data Engineer** · SQL · Python · ETL Pipelines
 
-Petroleum engineer turned data engineer. I build reliable data pipelines, analytics-ready models, and automations that turn raw data into decisions.
+Petroleum engineer turned data engineer. Driven by a passion for system design, I build reliable data pipelines, analytics-ready models, and automations that transform raw data into actionable business decisions.
 
 ## 📁 Featured Projects
 
