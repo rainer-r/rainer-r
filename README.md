@@ -41,6 +41,7 @@ Petroleum engineer turned data engineer. I build reliable data pipelines, analyt
 ![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)
 ![TOML](https://img.shields.io/badge/TOML-9C4121?logo=toml&logoColor=fff)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)
+![CSV](https://img.shields.io/badge/CSV-%2311AB00.svg?&logoColor=white)
 
 **Databases**
 
