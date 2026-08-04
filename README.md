@@ -36,14 +36,17 @@ Petroleum engineer turned data engineer. I build reliable data pipelines, analyt
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)
 
-**Data Serialization Formats**
+**Data & Serialization Formats**
 
+![CSV](https://img.shields.io/badge/.csv-%2311AB00.svg?&logoColor=white)
+![Parquet](https://img.shields.io/badge/.parquet-2088FF?&logoColor=white)
+![XLSX](https://img.shields.io/badge/.xlsx-%2311AB00.svg?&logoColor=white)
+![PDF](https://img.shields.io/badge/.pdf-F05032?&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)
 ![TOML](https://img.shields.io/badge/TOML-9C4121?logo=toml&logoColor=fff)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)
-![CSV](https://img.shields.io/badge/CSV-%2311AB00.svg?&logoColor=white)
 
-**Databases**
+**Database & Data Warehouse**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)
@@ -53,6 +56,7 @@ Petroleum engineer turned data engineer. I build reliable data pipelines, analyt
 
 **Tools**
 
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
@@ -67,6 +71,7 @@ Petroleum engineer turned data engineer. I build reliable data pipelines, analyt
 
 **Libraries**
 
+![Requests](https://img.shields.io/badge/Requests-fff?&logoColor=000)
 ![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)
 ![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)
